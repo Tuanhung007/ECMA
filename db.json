@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1 u",
+      "price": 100,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 100,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": "8b45",
+      "email": "sdjf@gmail.com",
+      "password": "sdjf@gmail.com",
+      "repassword": "sdjf@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "123456",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "edf9",
+      "email": "sdjf@gmail.com",
+      "password": "sdjf@gmail.com",
+      "repassword": "sdjf@gmail.com"
+    },
+    {
+      "id": "5e45",
+      "email": "skfs@gmail.com",
+      "password": "skfs@gmail.com"
+    },
+    {
+      "id": "e6a4",
+      "email": "jsdfn@gmail.com",
+      "password": "sdifj"
+    },
+    {
+      "id": "0577",
+      "email": "user@gmail.com",
+      "password": "user@gmail.com"
+    }
+  ]
+}
